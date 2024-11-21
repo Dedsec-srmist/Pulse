@@ -1,3 +1,4 @@
+![](res/header.png)
 # Pulse: A Messaging platform for Seamless Communication
 
 > Pulse is feature-rich messaging platform designed to deliver secure, scalable and efficient communication solutions with a user-centric approach while emphasizing user experience, security and extensibility.
@@ -37,7 +38,7 @@
 
 - Agile Methodology
     
-    Kanban : task development
+    Scrum : task development
     
     iterative development, continuous feedback
     
@@ -45,7 +46,7 @@
     
     GitHub: version control
     
-    Google Sheets: task tracking
+    Retool: task tracking
     
     WhatsApp: communication  
     
